@@ -1,4 +1,4 @@
-deployed link :- netflix-sourabh.netlify.app
+deployed link :- <a href="www.netflix-sourabh.netlify.app"> netflix-sourabh.netlify.app</a>
 
 
 # Getting Started with Create React App
